@@ -1,3 +1,8 @@
 Hello...
 
+<<<<<<< HEAD
 I like saying goodbye
+=======
+
+omfg
+>>>>>>> feature2
